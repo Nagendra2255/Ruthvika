@@ -10,6 +10,7 @@ public class RuthvikaApplication {
 		SpringApplication.run(RuthvikaApplication.class, args);
 		System.out.println("jjkhkhjkh");
 		System.out.println("..............");
+		System.out.println("third commit");
 	}
 
 }
