@@ -9,6 +9,7 @@ public class RuthvikaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RuthvikaApplication.class, args);
 		System.out.println("jjkhkhjkh");
+		System.out.println("..............");
 	}
 
 }
